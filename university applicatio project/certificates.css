@@ -1,0 +1,48 @@
+.container{
+    border: 2px solid white;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image:url(bg.jpg);
+}
+img{
+    padding-bottom: 10px;
+}
+#navbar{
+    background-color: grey;
+    padding: 30px;
+    font-size: x-large;
+}
+.nav1{
+    padding: 30px;
+}
+.nav1:hover{
+    color: white;
+    background-color: orange;   
+}
+#copyrights{
+    background-color: grey;
+    padding: 20px;
+    font-size: large;
+    color: white;
+}
+.box{
+    background-color:white;
+    width: 400px;
+    padding: 20px;
+    margin-left: 700px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: x-large;
+    border: 20px double black;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    color: black;
+    text-shadow: 7px 2px 20px;
+  }
+
